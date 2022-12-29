@@ -241,6 +241,7 @@ plt.xlabel('No. epoch')
 plt.legend(loc="upper left")
 plt.show()
 
+
 # Plot history: MSE
 plt.plot(history.history['accuracy'], label='Training Accuracy')
 plt.plot(history.history['val_accuracy'], label='Validation Accuracy')
