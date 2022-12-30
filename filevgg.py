@@ -150,6 +150,7 @@ plt.legend(['train', 'test'], loc='upper left')
 plt.grid(True)
 plt.show()
 
+
 """### Transfer Learning Menggunakan VGG16
 
 #### Memuat Model VGG16
